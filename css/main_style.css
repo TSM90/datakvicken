@@ -1,0 +1,12 @@
+body { background: #656565; }
+
+.content_main { width: 1000px; margin: 0 auto 0 auto; }
+
+.textbox { background: #fff; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; padding-right: 5px; }
+.sidebar { background: #fff; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; }
+
+.navigationbar { background: #040303; height: 30px; }
+.navigationbar ul { padding-top: 5px; }
+.navigationbar li { float: left; margin-right: 20px; list-style: none; }
+
+.navigationbar a { color: #fff; }
