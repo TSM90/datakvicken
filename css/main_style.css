@@ -1,14 +1,16 @@
-body { background: #656565; }
+body { background-image: url('/Users/Kyazz/Documents/hemsidor/datakvicken/image/bg.png'); background-repeat: no-repeat; background-attachment: fixed; background-size: 100%; height: 100%; } 
 
 .content_main { width: 1000px; margin: 0 auto 0 auto; max-height: auto; }
 
-.textbox { background: #fff; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; padding-right: 5px; margin-top: 10px; }
-.sidebar { background: #fff; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; margin-top: 10px; }
+.textbox { background: #fff; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; padding-right: 5px; margin-top: 10px; height: 400px; }
+.sidebar { background: #fff; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; margin-top: 10px; min-height: 400px; }
+
+.sidebar img { width: 60px; margin-top: 10px;}
 
 .navigationbar { background: #040303; height: 30px; }
 .navigationbar ul { padding-top: 5px; }
 .navigationbar li { float: left; margin-right: 20px; list-style: none; }
-
 .navigationbar a { color: #fff; }
+.navigationbar a:hover { text-decoration: none; color: #dedede; }
 
 .footer { background: #000; height: 150px; width: 1025px; margin: 10px auto 0 auto; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; }
