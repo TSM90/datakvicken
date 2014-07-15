@@ -2,8 +2,8 @@ body { background-image: url('/Users/Kyazz/Documents/hemsidor/datakvicken/image/
 
 .content_main { width: 1000px; margin: 0 auto 0 auto; max-height: auto; }
 
-.textbox { background: #fff; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; padding-right: 5px; margin-top: 10px; height: 400px; }
-.sidebar { background: #fff; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; margin-top: 10px; min-height: 400px; }
+.textbox { background: #fff; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; padding-right: 5px; margin-top: 10px; height: 420px; }
+.sidebar { background: #fff; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; margin-top: 10px; min-height: 420px; }
 
 .sidebar img { width: 60px; margin-top: 10px;}
 
@@ -13,4 +13,8 @@ body { background-image: url('/Users/Kyazz/Documents/hemsidor/datakvicken/image/
 .navigationbar a { color: #fff; }
 .navigationbar a:hover { text-decoration: none; color: #dedede; }
 
-.footer { background: #000; height: 150px; width: 1025px; margin: 10px auto 0 auto; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; }
+.footer { background: #000; height: 110px; width: 1025px; margin: 10px auto 0 auto; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; }
+
+.leftparagraph { float: left; font-size: 14px; margin-top: 30px; margin-left: 15px; width: 300px; }
+
+.smallsharebuttons { float: right; margin-top: 25px; }
