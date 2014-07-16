@@ -2,8 +2,8 @@ body { background-image: url('/Users/Kyazz/Documents/hemsidor/datakvicken/image/
 
 .content_main { width: 1000px; margin: 0 auto 0 auto; max-height: auto; }
 
-.textbox { background: #fff; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; padding-right: 5px; margin-top: 10px; height: 420px; }
-.sidebar { background: #fff; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; margin-top: 10px; min-height: 420px; }
+.textbox { background: #fff; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; padding-right: 5px; margin-top: 10px; height: 100%; }
+.sidebar { background: #fff; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; margin-top: 10px; min-height: 150px; }
 
 .sidebar img { width: 60px; margin-top: 10px;}
 
@@ -17,4 +17,6 @@ body { background-image: url('/Users/Kyazz/Documents/hemsidor/datakvicken/image/
 
 .leftparagraph { float: left; font-size: 14px; margin-top: 30px; margin-left: 15px; width: 300px; }
 
-.smallsharebuttons { float: right; margin-top: 25px; }
+.maintext { width: 550px; padding-bottom: 20px; }
+
+table, th, td { border: 1px solid black; background: #d3d3d3; padding: 10px; border-collapse: collapse; } 
