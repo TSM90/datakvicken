@@ -15,10 +15,10 @@ body { background-image: url('/Users/Kyazz/Documents/hemsidor/datakvicken/image/
 
 .footer { background: #000; height: 110px; width: 1025px; margin: 10px auto 0 auto; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; }
 
-.leftparagraph { float: left; font-size: 14px; margin-top: 30px; margin-left: 15px; width: 300px; }
+.leftparagraph { float: left; font-size: 14px; margin-top: 30px; margin-left: 15px; width: 300px; color: #989898; }
 
 .maintext { width: 550px; padding-bottom: 20px; }
 
 table, th, td { border: 1px solid black; background: #d3d3d3; padding: 10px; border-collapse: collapse; } 
 
-#map_canvas { width: 500px; height: 400px; }
+#map_canvas { width: 500px; height: 400px; background: #ccc; }
