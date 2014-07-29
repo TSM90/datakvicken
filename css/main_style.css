@@ -2,6 +2,9 @@ body { background-image: url('/Users/Kyazz/Documents/hemsidor/datakvicken/image/
 
 .content_main { width: 1000px; margin: 0 auto 0 auto; max-height: auto; }
 
+h1 { font-family: monospace; }
+strong { font-weight: bold; }
+
 .textbox { background: #fff; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; padding-right: 5px; margin-top: 10px; height: 100%; }
 .sidebar { background: #fff; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; margin-top: 10px; min-height: 150px; }
 
