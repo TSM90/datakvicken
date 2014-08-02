@@ -22,6 +22,6 @@ strong { font-weight: bold; }
 
 .maintext { width: 550px; padding-bottom: 20px; }
 
-table, th, td { border: 1px solid black; background: #d3d3d3; padding: 10px; border-collapse: collapse; } 
+table, th, td { border: 1px solid black; background: #eeeeee; padding: 10px; border-collapse: collapse; } 
 
 #map_canvas { width: 500px; height: 400px; background: #ccc; }
